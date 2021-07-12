@@ -1,2 +1,2 @@
-# C-31
-Arrays &amp; Bird Trajectories
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
